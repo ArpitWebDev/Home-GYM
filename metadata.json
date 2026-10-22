@@ -1,0 +1,6 @@
+{
+  "name": "Your Fitness",
+  "description": "Modern bodybuilding and calisthenics fitness platform featuring a comprehensive exercise library, bodyweight skill progressions, interactive workout sessions, routines, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
